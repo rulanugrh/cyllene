@@ -8,6 +8,7 @@ In this repository is about my random pixel art created. I've been learning some
 .
 ├── README.md
 ├── chicken-soup.png
+├── coffe.png
 ├── gamebot.png
 └── ghost.gif
 ```
