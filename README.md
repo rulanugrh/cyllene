@@ -10,5 +10,7 @@ In this repository is about my random pixel art created. I've been learning some
 ├── chicken-soup.png
 ├── coffe.png
 ├── gamebot.png
-└── ghost.gif
+├── ghost.gif
+├── orange-cat-white-bg.png
+└── orange-cat.png
 ```
