@@ -7,10 +7,10 @@ In this repository is about my random pixel art created. I've been learning some
 ```
 .
 ├── README.md
+├── boat-320.png
 ├── chicken-soup.png
 ├── coffe.png
 ├── gamebot.png
 ├── ghost.gif
-├── orange-cat-white-bg.png
 └── orange-cat.png
 ```
