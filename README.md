@@ -10,6 +10,7 @@ In this repository is about my random pixel art created. I've been learning some
 ├── boat-320.png
 ├── chicken-soup.png
 ├── coffe.png
+├── computer-art.gif
 ├── gamebot.png
 ├── ghost.gif
 └── orange-cat.png
