@@ -14,4 +14,6 @@ In this repository is about my random pixel art created. I've been learning some
 ├── gamebot.png
 ├── ghost.gif
 └── orange-cat.png
+└── claude.gif
+└── claude-420.gif
 ```
